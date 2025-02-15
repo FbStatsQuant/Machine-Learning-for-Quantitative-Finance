@@ -7,6 +7,7 @@ Specifically, you will find:
 2. Logistic Regression and Suppor Vector Machine: Application to Market Regime, in which I identify whether the market is at a bearish or bullish state as a function of market and macroeconomic variables.
 3. Multiple classification algorithms such us SVM, random forest and stochastic gradient.
 4. Cultering algorithms, such as K Means, applied to the stocks. 
+5. PCA for dimensionality reduction.
 
 
 Find detailed notes of each section in the Wiki section.
